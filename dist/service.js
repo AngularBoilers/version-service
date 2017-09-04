@@ -129,7 +129,7 @@ angular.module('myApp').config(['$stateProvider', function($stateProvider) {
    }
   }, function(error) {
    if (!ialert) {
-    showToast('Looks that location is blocked for this web app, please allow the location in settings ');
+    showToast('Looks that location is blocked for this web app, please allow the location in settings!');
     ialert = true;
    }
   }, options);

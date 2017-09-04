@@ -1,0 +1,10 @@
+{
+  "name": "version-service",
+  "homepage": "https://github.com",
+  "description": "A package for lazyloading angular services",
+  "main": "dist/service.js",
+  "authors": [
+    "AngularBoilers"
+  ],
+  "license": "MIT"
+}
